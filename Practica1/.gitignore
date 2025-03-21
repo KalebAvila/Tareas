@@ -1,0 +1,6 @@
+Practica1/.gitignore
+Practica1/.env
+Practica1/package-lock.json
+Practica1/src/types/index.d.ts
+Practica1/src/config/index.ts
+Practica1/dist
